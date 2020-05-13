@@ -1,2 +1,5 @@
 #Para la eliminacion de los ficheros de MACOS
 .DS_Store
+
+#Para los checkpoints de jupyter
+.ipynb_checkpoints/
